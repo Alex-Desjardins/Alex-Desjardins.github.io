@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Career Change
+title: "Blog: My Career Change"
 excerpt_separator:  <!--more-->
 ---
 ![placeholder](/assets/images/my_story_blog.jpeg)
