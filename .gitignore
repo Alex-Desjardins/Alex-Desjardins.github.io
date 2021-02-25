@@ -4,7 +4,7 @@ _site
 .ruby-version
 
 #My Own
-jekyll-cache
+.jekyll-cache
 
 # Numerous always-ignore extensions
 *.diff
