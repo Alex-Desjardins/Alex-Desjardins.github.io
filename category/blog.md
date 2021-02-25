@@ -1,6 +1,7 @@
 ---
-layout: category
-title: Blog
+layout:
+title:
+sidebar_link:
 ---
 
 Sample category page. You need to create a page for each category.
