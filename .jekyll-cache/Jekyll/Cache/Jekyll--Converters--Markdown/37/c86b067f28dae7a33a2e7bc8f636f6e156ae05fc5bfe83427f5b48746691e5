@@ -1,0 +1,15 @@
+I"d<p><img src="/assets/images/sweater.png" alt="sweater" width="150" /></p>
+<h3 id="sweater-weather">Sweater Weather</h3>
+<p><a href="https://github.com/Alex-Desjardins/sweater_weather_api">Github Repo</a> | <a href="https://www.google.com/url?q=https://sweater-weather-ad.herokuapp.com/&amp;sa=D&amp;source=editors&amp;ust=1614279542317000&amp;usg=AOvVaw3bRkIcZBxhjnWlb2H33YXd">Production</a></p>
+<ul>
+  <li>Creation of REST API to aggregate data for weather forecast, images, and routing as well as providing CRUD -functionality for users.</li>
+  <li>Solo greenfield project that utilize openweather, mapquest, and pexel API’s</li>
+  <li>Tech Stack: Ruby on Rails, RSpec, Capybara, PostgreSQL, Heroku</li>
+  <li>All tests passing with 99.5% coverage</li>
+</ul>
+
+<p><br /></p>
+
+<p><img src="/assets/images/saturn.png" alt="Saturn" width="150" />
+Saturn’d Earth</p>
+:ET

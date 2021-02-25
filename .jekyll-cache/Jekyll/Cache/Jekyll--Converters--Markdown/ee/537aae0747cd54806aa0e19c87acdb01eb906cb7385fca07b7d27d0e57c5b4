@@ -1,0 +1,14 @@
+I"”<div style="float: center">
+    <img style="padding: 0 20px" src="/assets/images/sweater.png" alt="Image" height="200" width="200" />
+    Sweater Weather API
+    - Creation of REST API to aggregate data for weather forecast, images, and routing as well as providing CRUD -functionality for users.
+    - Solo greenfield project that utilize openweather, mapquest, and pexel APIâ€™s
+    - Tech Stack: Ruby on Rails, RSpec, Capybara, PostgreSQL, Heroku
+    - All tests passing with 99.5% coverage
+</div>
+
+<div style="float: right">
+    <img style="padding: 0 20px" src="/assets/images/saturn.png" alt="Image" height="200" width="200" />
+    Saturn'd Earth
+</div>
+:ET
