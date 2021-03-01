@@ -15,3 +15,5 @@ I am a Backend Software Engineer and previous Surgical Neurophysiologist. Throug
 I specialize as a Software Engineer with experience working on projects involving large amounts of data, API construction and consumption, and focus heavily on OOP principles.
 
 I love working with people and companies who share the same values and mindset for growth, innovation, learning, and compassion that I do. As a professional, I aspire to bring optimism, curiosity, creativity, and grit to the workplace; working alongside a team I can learn from and a company I can grow with.
+
+---

@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: page
 title: Projects
+sidebar_link: true
 ---
 <br><br>
 <img src="/assets/images/sweater.png" alt="sweater" width="150">
