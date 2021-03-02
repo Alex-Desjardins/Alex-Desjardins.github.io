@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-sidebar_link: true
+<!-- sidebar_link: true -->
 ---
 <div style="float: left">
     <img style="padding: 0 20px" src="/assets/images/headshot2.jpeg" alt="Image" height="400" width="300">
